@@ -5,11 +5,15 @@
 
 ## DEVEOLPER-DESIGNER-CREATOR!!
 
-- 🔭 I just launched a telegram bot for TKMCE students:[bottkmce][bottkmce]!
-- 🌱 I’m currently learning flutter 
-- 👯 I’m looking to collaborate with other flutter developers
-- 🥅 interested to contribute open source projects
-- ⚡ Fun fact: As i always said i'm not a model for you!!
+- 🤖 I just launched a telegram bot for TKMCE students:[bottkmce][bottkmce]!
+- 🔭 I’m currently working on flutter developer
+- 🌱 I’m currently learning ...flutter App development
+- 👯 I’m looking to collaborate on ...open source
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...flutter or Any tech related stuff
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...Karthiiiii
+- ⚡️ Fun fact: ...As i always said im not a model for you!!
 
 ### Spotify Playing 🎧
 
