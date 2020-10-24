@@ -1,8 +1,7 @@
 ### Hi there, I'm Karthi 👋
 
 ---
-<br/>
-## DEVEOLPER-DESIGNER-CREATOR!!
+### DEVEOLPER-DESIGNER-CREATOR!!
 
 - 🤖 I just launched a telegram bot for TKMCE students:[bottkmce][bottkmce]!
 - 🔭 I’m currently working on flutter developer
