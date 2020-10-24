@@ -5,7 +5,7 @@
 
 ## DEVEOLPER-DESIGNER-CREATOR!!
 
-- 🔭 I just launched a telegram bot for TKMCE students: [bottkmce][course]!
+- 🔭 I just launched a telegram bot for TKMCE students:[bottkmce][bottkmce]!
 - 🌱 I’m currently learning flutter 
 - 👯 I’m looking to collaborate with other flutter developers
 - 🥅 interested to contribute open source projects
