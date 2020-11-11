@@ -76,7 +76,7 @@
 
 </details> --> 
 
-[website]: https://karthik-sunil-k.github.io/karthiksunilk/
+[website]: http://karthiksunil.me
 [bottkmce]: http://t.me/Tkmcebot
 [twitter]: https://twitter.com/KarthikSunilK
 [youtube]: https://youtube.com/codeSTACKr
