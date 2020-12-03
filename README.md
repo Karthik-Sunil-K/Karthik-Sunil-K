@@ -12,7 +12,7 @@
 - 💬 Ask me about ...flutter or Any tech related stuff
 - 📫 How to reach me: +91 8606683287
 - 😄 Pronouns: ...Karthii!
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/005cde3db8ea03a3320b0f02fb1aed7f1c117b2f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" width="400px" data-canonical-src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="max-width:100%;">
+<!--<img align="right" alt="GIF" src="https://camo.githubusercontent.com/005cde3db8ea03a3320b0f02fb1aed7f1c117b2f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" width="400px" data-canonical-src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="max-width:100%;"> -->
 
 <!-- ### Spotify Playing 🎧
 
