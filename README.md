@@ -5,7 +5,7 @@
 ### DEVEOLPER-DESIGNER-CREATOR!!
 
 - 🤖 I just launched a telegram bot for TKMCE students:[bottkmce][bottkmce]!
-- 🔭 I’m currently working on developer UI/UX designer at [solcare-technologies][solcare]
+- 🔭 I’m currently working on developer UI/UX designer at [SolcareTechnologies][solcare]
 - 🌱 I’m currently learning ...flutter App development
 - 👯 I’m looking to collaborate on ...open source
 - 🤔 I’m looking for flutter developers
