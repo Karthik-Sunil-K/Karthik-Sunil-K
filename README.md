@@ -77,7 +77,7 @@
 </details> --> 
 
 [website]: http://karthiksunil.me
-[bottkmce]: http://t.me/Tkmcebot
+[bottkmce]: http://t.me/botectkm
 [twitter]: https://twitter.com/KarthikSunilK
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/karthiksunilk._
