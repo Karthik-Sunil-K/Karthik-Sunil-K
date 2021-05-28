@@ -4,8 +4,8 @@
 
 ### DEVEOLPER-DESIGNER-CREATOR!!
 
-- 🤖 I just launched a telegram bot for TKMCE students:[bottkmce][bottkmce]!
-- 🔭 I’m currently working on developer UI/UX designer at [SolcareTechnologies][solcare]
+- 🤖 I just launched a Flutter UI designs :[bottkmce][bottkmce]!
+- 🔭 I’m currently working on Flutter Intern  at [Tatos][working]
 - 🌱 I’m currently learning ...flutter App development
 - 🤔 I’m looking for flutter developers
 - 💬 Ask me about ...Flutter or Any tech related stuff
@@ -85,7 +85,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[solcare]: https://www.solcaretechnologies.in/
+[working]: https://tatos.tech/
 [discord]:  https://discord.com/KarthikSunil#2204
 [facebook]: https://www.facebook.com/karthiksunil.karthiksunil.50
 [gmail]: karthiksunil038@gmail.com
