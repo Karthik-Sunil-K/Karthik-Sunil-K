@@ -4,7 +4,7 @@
 
 ### DEVEOLPER-DESIGNER-CREATOR!!
 
-- 🤖 I just launched a Flutter UI designs :[bottkmce][bottkmce]!
+- 🤖 I just launched a telegrambot(s4-Materials) :[bottkmce][bottkmce]!
 - 🔭 I’m currently working on Flutter Intern  at [Tatos][working]
 - 🌱 I’m currently learning ...flutter App development
 - 🤔 I’m looking for flutter developers
@@ -76,7 +76,7 @@
 </details> --> 
 
 [website]: http://karthiksunil.me
-[bottkmce]: http://t.me/ectkmbot
+[bottkmce]: http://t.me/eclivebot
 [twitter]: https://twitter.com/KarthikSunilK
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/karthiksunilk._
