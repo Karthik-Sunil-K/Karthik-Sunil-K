@@ -4,7 +4,7 @@
 
 ### DEVEOLPER-DESIGNER-CREATOR!!
 
-- 🤖 I just launched a telegrambot(s4-Materials)[bottkmce][bottkmce] check it
+- 🤖 I just launched a telegrambot(s4-Materials)[bottkmce][bottkmce] check it out
 - 🔭 I’m currently working on Flutter Intern  at [Tatos][working]
 - 🌱 I’m currently learning ...flutter App development
 - 🤔 I’m looking for flutter developers
