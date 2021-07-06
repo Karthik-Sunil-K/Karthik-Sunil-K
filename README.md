@@ -76,7 +76,7 @@
 </details> --> 
 
 [website]: http://karthiksunil.me
-[bottkmce]: http://t.me/eclivebot
+[bottkmce]: https://github.com/Karthik-Sunil-K/custom-bot-s4-EC-tkmce
 [twitter]: https://twitter.com/KarthikSunilK
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/karthiksunilk._
