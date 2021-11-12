@@ -6,7 +6,7 @@
 
 - 🤖 I just launched a telegrambot(s4-Materials) [bottkmce][bottkmce] check it out
 - 🔭 I’m currently working on Flutter Intern  at [Tatos][working]
-- 🌱 I’m currently learning ...flutter App development
+- 🌱 I’m currently working ...flutter App development
 - 🤔 I’m looking for flutter developers
 - 💬 Ask me about ...Flutter or Any tech related stuff
 - 📫 How to reach me:8606683287 <a>http://karthiksunil.me</a>
