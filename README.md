@@ -1,10 +1,10 @@
 ### Hi, I'm Karthik        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-22272E?style=flat-square&logo=twitter&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://twitter.com/dinoy)](https://twitter.com/dinoy)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-22272E?style=flat-square&logo=Linkedin&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.linkedin.com/in/dinoy-k/)](https://www.linkedin.com/in/dinoy-k/)
-[![Linkedin](https://img.shields.io/badge/-Instagram-22272E?style=flat-square&logo=Instagram&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.instagram.com/dinoy_/?hl=en)](https://www.instagram.com/dinoy_/?hl=en)
-[![Linkedin](https://img.shields.io/badge/-Gmail-22272E?style=flat-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=dinoy@gmail.com)](mailto:dinoy@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-22272E?style=flat-square&logo=twitter&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://twitter.com/karthiksunil_)](https://twitter.com/karthiksunil_)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-22272E?style=flat-square&logo=Linkedin&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.linkedin.com/in/karthiksunilk/)](https://www.linkedin.com/in/dinoy-k/)
+[![Linkedin](https://img.shields.io/badge/-Instagram-22272E?style=flat-square&logo=Instagram&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.instagram.com/karthik.sunil/?hl=en)](https://www.instagram.com/karthik.sunil/?hl=en)
+[![Linkedin](https://img.shields.io/badge/-Gmail-22272E?style=flat-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=karthiksunil.me@gmail.com)](mailto:karthiksunil.me@gmail.com)
 
 
 <!-- ```text
