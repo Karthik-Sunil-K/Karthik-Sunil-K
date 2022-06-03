@@ -26,10 +26,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 <!-- 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-Sunil-K&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) -->
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Sunil-K&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&theme=yeblu&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +46,10 @@ Python                   4 mins              ░░░░░░░░░░░�
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Sunil-K&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&theme=yeblu&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
  ###### Last Updated on   05/03/2022 17:01:25 UTC
 <!--END_SECTION:waka-->
