@@ -25,8 +25,8 @@ Python                   4 mins              ░░░░░░░░░░░�
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Karthik-Sunil-K&bg_color=AARRGGBB&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
 <!-- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-Sunil-K&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) -->
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-Sunil-K&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) 
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"> -->
 
 
 
