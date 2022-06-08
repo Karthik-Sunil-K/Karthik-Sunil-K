@@ -1,4 +1,4 @@
-### Hi, I'm Karthik Sunil
+### Hi, I'm Karthik 
 
 
 
